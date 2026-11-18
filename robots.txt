@@ -1,4 +1,2 @@
 User-agent: *
 Allow: /
-
-Sitemap: https://xonevermore.github.io/cosmicscale/sitemap.xml
